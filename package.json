@@ -1,15 +1,7 @@
 {
     "name": "card",
     "version": "0.0.0",
-    "main": "index.html"
-    "scripts": {
-        "ng": "ng",
-        "start": "ng serve --proxy-config proxy.config.json --port 3000",
-        "build": "ng build",
-        "test": "ng test",
-        "lint": "eslint ./",
-        "e2e": "ng e2e"
-    },
+    "main": "index.html",
     "private": true,
     
 }
